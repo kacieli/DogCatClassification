@@ -1,1 +1,5 @@
 # DogCatClassification
+
+This project addresses the challenge of accurately classifying different breeds of cats and dogs using deep learning techniques. Our objective is to build a convolutional neural network (CNN) capable of distinguishing between multiple breeds, leveraging image datasets for both dogs and cats. Specifically, we are using the Stanford Dogs dataset, which contains approximately 20,000 images, and the Cat Breeds dataset from Kaggle, consisting of around 71,000 images.
+
+Our primary goal is to create a robust classification model that can achieve high accuracy in breed identification, even in the presence of challenges such as imbalanced class representation, visual similarities between breeds, and inconsistencies in image quality. By focusing on these challenges, we aim to evaluate and improve the performance of the model, making it a useful tool for fine-grained breed categorization. The expected outcome is a model capable of precise classification, providing insights into the strengths and limitations of using deep learning for image-based breed identification.
