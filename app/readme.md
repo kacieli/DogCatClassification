@@ -2,7 +2,7 @@
 
 A **Streamlit application** to classify uploaded images into 187 categories using a pre-trained model. The app provides confidence explanations, visualizes top predictions, and offers tips for better predictions.
 
----
+
 
 ## How to Run
 
@@ -13,7 +13,6 @@ A **Streamlit application** to classify uploaded images into 187 categories usin
    ```
 2. Place the pre-trained model file `dogcat_model1.h5` in the same directory as `interface.py`.
 
----
 
 ### Steps
 1. Clone the repository:
