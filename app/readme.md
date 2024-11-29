@@ -15,11 +15,8 @@ A **Streamlit application** to classify uploaded images into 187 categories usin
 
 
 ### Steps
-1. Clone the repository:
-   ```bash
-   git clone <your-repository-url>
-   cd <your-repository-folder>
-   ```
+1. Download or clone the repository:
+  
 2. Run the Streamlit app:
    ```bash
    streamlit run interface.py
