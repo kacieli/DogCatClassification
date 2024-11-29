@@ -114,13 +114,19 @@ if uploaded_file is not None:
 
 # Instructions for running Streamlit
 st.write("---")
-st.write("To start this application, run the following command in your terminal:")
-st.code("streamlit run interface.py", language="bash")
+# st.write("To start this application, run the following command in your terminal:")
+# st.code("streamlit run interface.py", language="bash")
+
+# Mac/Linux:
+# source tf_env/bin/activate
+
+# Windows
+# tf_env\Scripts\activate
 
 
 
 # streamlit run interface.py
-# source tf_env/bin/activate
+
 
 
 

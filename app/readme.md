@@ -1,28 +1,5 @@
 # Dog & Cat Breed Classifier
 
-This is a **Streamlit application** that predicts the class of an uploaded image using a pre-trained model with 187 classes. It provides dynamic confidence explanations and visualizes the top predictions with a user-friendly interface.
-
----
-
-## Features
-- Predicts the class of the uploaded image.
-- Explains confidence levels dynamically (e.g., high, moderate, or low).
-- Visualizes the top 5 predictions with a bar chart.
-- Provides helpful tips for better predictions.
-
----
-
-## How to Run
-
-### Prerequisites
-1. **Python 3.7+** and the following libraries:
-   ```bash
-   pip install tensorflow streamlit pillow matplotlib
-
-
-
-# Dog & Cat Breed Classifier
-
 A **Streamlit application** to classify uploaded images into 187 categories using a pre-trained model. The app provides confidence explanations, visualizes top predictions, and offers tips for better predictions.
 
 ---
