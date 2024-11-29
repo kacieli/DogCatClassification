@@ -26,7 +26,7 @@ A **Streamlit application** to classify uploaded images into 187 categories usin
    ```
 3. Open the provided URL (e.g., `http://localhost:8501`) in your browser.
 
----
+
 
 ## Features
 - Predicts the class of uploaded images.
@@ -34,7 +34,7 @@ A **Streamlit application** to classify uploaded images into 187 categories usin
 - Visualizes top 5 predictions in an easy-to-read chart.
 - Provides tips for better prediction results.
 
----
+
 
 ## Example Outputs
 - **Prediction**: `Class 38`
